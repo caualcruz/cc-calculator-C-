@@ -74,7 +74,22 @@ namespace Exemplo.Classes
         {
             long xInt = (long)this.x;
             long yInt = (long)this.y;
-            return xInt & yInt;
+            if (xInt <= 0)
+            {
+                return 0000;
+
+            } else
+            {
+                String res = "";
+                while (xInt > 0)
+                {
+                    long resto = xInt % 2;
+
+                    x = x / 2;
+
+                    res += resto;
+                }
+            }
         }
 
         public double elev()
