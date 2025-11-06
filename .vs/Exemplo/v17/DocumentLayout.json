@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\cc-calculator-c-\\classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\cc-calculator-c-\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\cc-calculator-c-\\classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65C6CAE8-1683-4361-BB10-BF76CC02799A}|Exemplo.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,49 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T00:13:00.529Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAWwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T00:08:39.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Operacoes.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Classes\\Operacoes.cs",
               "RelativeDocumentMoniker": "Classes\\Operacoes.cs",
               "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Classes\\Operacoes.cs",
               "RelativeToolTip": "Classes\\Operacoes.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T00:07:46.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

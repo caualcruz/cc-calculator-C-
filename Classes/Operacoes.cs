@@ -70,25 +70,23 @@ namespace Exemplo.Classes
             return (this.x / 100.0) * this.y;
         }
 
-        public long bin()
+        public double bin()
         {
             long xInt = (long)this.x;
-            long yInt = (long)this.y;
             if (xInt <= 0)
             {
                 return 0000;
 
             } else
             {
-                string res = "";
+                String res = "";
                 while (xInt > 0)
                 {
-                    long resto = xInt % 2;
-
+                     res += xInt % 2;
                     xInt = xInt / 2;
 
                 }
-                string finalRes = "";
+                String finalRes = "";
                 for (int i = res.Length - 1; i >= 0; i--)
                 {
                     finalRes += res[i];
