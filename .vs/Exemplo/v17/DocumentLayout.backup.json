@@ -1,10 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aluno.senai.pjcn\\source\\repos\\Exemplo\\",
+  "WorkspaceRootPath": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65C6CAE8-1683-4361-BB10-BF76CC02799A}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\source\\repos\\exemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aluno.senai.pjcn\\AppData\\Local\\Temp\\98c6d6dd-fa0d-4642-99d3-15abbbbce07b_vls-exemplo-windows-forms.zip.07b\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aluno.senai.pjcn\\AppData\\Local\\Temp\\30846acd-ea3c-4dd1-aced-474a4b29fb12_vls-exemplo-windows-forms.zip.b12\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C6CAE8-1683-4361-BB10-BF76CC02799A}|Exemplo.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65C6CAE8-1683-4361-BB10-BF76CC02799A}|Exemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\cc-calculator-c-\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\cc-calculator-c-\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\cc-calculator-c-\\classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785D8CF5-2A9A-46D7-A559-3B35ACD2CBE5}|Exemplo.csproj|solutionrelative:classes\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +37,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\source\\repos\\Exemplo\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\source\\repos\\Exemplo\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\AppData\\Local\\Temp\\98c6d6dd-fa0d-4642-99d3-15abbbbce07b_vls-exemplo-windows-forms.zip.07b\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\98c6d6dd-fa0d-4642-99d3-15abbbbce07b_vls-exemplo-windows-forms.zip.07b\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\AppData\\Local\\Temp\\98c6d6dd-fa0d-4642-99d3-15abbbbce07b_vls-exemplo-windows-forms.zip.07b\\Form1.Designer.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\98c6d6dd-fa0d-4642-99d3-15abbbbce07b_vls-exemplo-windows-forms.zip.07b\\Form1.Designer.cs [Somente Leitura]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T01:01:15.185Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-06T00:11:29.786Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\AppData\\Local\\Temp\\30846acd-ea3c-4dd1-aced-474a4b29fb12_vls-exemplo-windows-forms.zip.b12\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\30846acd-ea3c-4dd1-aced-474a4b29fb12_vls-exemplo-windows-forms.zip.b12\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\AppData\\Local\\Temp\\30846acd-ea3c-4dd1-aced-474a4b29fb12_vls-exemplo-windows-forms.zip.b12\\Form1.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\30846acd-ea3c-4dd1-aced-474a4b29fb12_vls-exemplo-windows-forms.zip.b12\\Form1.cs [Somente Leitura]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:10:03.795Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:09:15.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:08:39.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Classes\\Operacoes.cs",
+              "RelativeDocumentMoniker": "Classes\\Operacoes.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Classes\\Operacoes.cs",
+              "RelativeToolTip": "Classes\\Operacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:07:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\cc-calculator-C-\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:07:27.36Z"
             }
           ]
         }
