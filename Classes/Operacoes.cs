@@ -80,15 +80,21 @@ namespace Exemplo.Classes
 
             } else
             {
-                String res = "";
+                string res = "";
                 while (xInt > 0)
                 {
                     long resto = xInt % 2;
 
-                    x = x / 2;
+                    xInt = xInt / 2;
 
-                    res += resto;
                 }
+                string finalRes = "";
+                for (int i = res.Length - 1; i >= 0; i--)
+                {
+                    finalRes += res[i];
+                }
+
+                return long.Parse(finalRes);
             }
         }
 
