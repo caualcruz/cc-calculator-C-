@@ -17,3 +17,4 @@ Este é um simples projeto, feito em Windows Forms com C#, de uma calculadora de
 ![alt text](img11.png)
 
 Baixe a versão do programa aqui
+https://github.com/caualcruz/cc-calculator-C-/releases/tag/v1
